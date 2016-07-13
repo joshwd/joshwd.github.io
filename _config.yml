@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "Josh2_crop.png"
+  logo: "Josh2_crop.jpg"
   # author will appear under the avatar (optional)
   author: "Joshua W. Deutschmann"
   # tagline will appear under the title (optional)
